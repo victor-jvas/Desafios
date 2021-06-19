@@ -8,7 +8,6 @@ namespace Desafios
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }
