@@ -1,0 +1,16 @@
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.exe
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.deps.json
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.json
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.dev.json
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.dll
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\ref\Desafios.dll
+D:\Dev\GitRepos\DIO\Desafios\Desafios\bin\Debug\net5.0\Desafios.pdb
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.csproj.AssemblyReference.cache
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfoInputs.cache
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfo.cs
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.csproj.CoreCompileInputs.cache
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.dll
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\ref\Desafios.dll
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.pdb
+D:\Dev\GitRepos\DIO\Desafios\Desafios\obj\Debug\net5.0\Desafios.genruntimeconfig.cache
